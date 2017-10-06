@@ -1,4 +1,4 @@
-%% CODE FOR PROJECT-2 @ MBRDI EE ACAD
+%% CODE FOR EV
 clc
 
 %% CAR Requirements
